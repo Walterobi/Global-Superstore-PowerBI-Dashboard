@@ -70,4 +70,4 @@ Maps performance across five global markets, multiple regions, and 147 countries
 
 ---
 
-*Built by **Chuka Walter Obi** — M.Sc. Big Data Analytics, Trent University · M.Sc. Applied Mathematics, California State University Long Beach · [LinkedIn](https://www.linkedin.com/in/yourprofile)*
+*Built by **Chuka Walter Obi** — M.Sc. Big Data Analytics, Trent University · M.Sc. Applied Mathematics, California State University Long Beach · [LinkedIn](https://www.linkedin.com/in/chuka-obi-2022b7140/)*
